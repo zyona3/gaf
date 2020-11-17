@@ -15,7 +15,7 @@ Draw ASCII bar charts from a file
 ## Usage
 
 ```go
-∃! cat a.csv
+∃! cat sample.csv
 python,64
 go,18
 flutter,57
@@ -24,7 +24,7 @@ html,58
 css,59
 php,74
 
-∃! go run a.go -f a.csv
+∃! gaf sample.csv
     python :  █████████████████████▎
         go :  ██████
    flutter :  ███████████████████
