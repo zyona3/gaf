@@ -1,7 +1,7 @@
 
 # gaf
 
-Draw ASCII bar charts from a file
+Draw ASCII bar charts with a file
 
 
 ## Installation
@@ -37,15 +37,3 @@ javascript :  ██████████████████████
 ## LICENSE
 
 CC-NC
-
-
-
-
-## Reference
-
-- https://qiita.com/nayuneko/items/3c0b3c0de9e8b27c9548
-- https://github.com/Xx0w0wxX/til/blob/master/go/read-csv.md
-- https://stackoverflow.com/questions/33139020/can-golang-multiply-strings-like-python-can
-- https://stackoverflow.com/questions/39245610/golang-converting-from-rune-to-string
-- https://stackoverflow.com/questions/29914662/equivalent-of-pythons-ord-chr-in-go
-- https://golang.org/doc/code.html
